@@ -1,6 +1,6 @@
-# Text-Recognition-
-
-Text Recognition is an advanced software solution that leverages cutting-edge machine learning and computer vision techniques to automatically extract text from various sources, including images, scanned documents, and digital files. This repository contains the source code and documentation for the Text Recognition project.
+# Handwritten-Text-Recognition-
+# Abstract
+Handwritten Text Recognition (HTR) has gained significant attention due to its applications in digitizing historical documents, aiding visually impaired individuals, and enhancing information retrieval from images. This project presents a comprehensive solution for Handwritten Text Recognition, utilizing machine learning techniques and the OpenCV library The system offers the capability to upload images containing handwritten text to web-based interface. Upon upload, the system employs a combination of image preprocessing, feature extraction, and machine learning algorithms to accurately recognize and transcribe the handwritten text.
 
 # Features
 * Image Text Extraction: Extract text from images, enabling the conversion of printed text into editable digital format with high accuracy.
